@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container_cabecalho {
+    background-color: rgb(82, 118, 173);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+    height: 80px;
+}
+
+.input_pesquisa {
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    border-style: none;
+    bor
+}
+
+.cadastro_carrinho {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.cadastro_cliente {
+    cursor: pointer;
+    color: azure;
+    font-size: 18px;
+}
+
+.carrinho {
+    height: 40px;
+    cursor: pointer;
+}
