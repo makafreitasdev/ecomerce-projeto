@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container_cabecalho {
@@ -16,7 +17,8 @@
     width: 400px;
     border-radius: 10px;
     border-style: none;
-    bor
+    outline: none;
+    text-align: center;
 }
 
 .cadastro_carrinho {
