@@ -1,0 +1,24 @@
+.categorias {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(247, 244, 244);
+}
+
+.navigator {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 80%;
+    height: 40px;    
+}
+
+.navigator li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    cursor: pointer;
+    height: 40px;
+    width: 250px;
+}
