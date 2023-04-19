@@ -4,8 +4,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-color: rgb(240, 242, 245);
+}
+
 .container_cabecalho {
-    background-color: rgb(29, 71, 134);
+    background-color: rgb(192, 196, 202);
     display: flex;
     justify-content: space-around;
     align-items: center;   
@@ -29,7 +33,7 @@
 
 .cadastro_cliente {
     cursor: pointer;
-    color: azure;
+    color: rgb(37, 37, 37);
     font-size: 18px;
 }
 

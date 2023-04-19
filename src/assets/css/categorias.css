@@ -22,3 +22,8 @@
     height: 40px;
     width: 250px;
 }
+
+.navigator li:hover {
+    background-color: rgb(192, 196, 202);
+    transition: 0.5s;
+}
